@@ -1,4 +1,4 @@
-# React App de départ
+# TP Final - Marché aux puces projet de départ 
 
 Projet créé avec [Create React App](https://github.com/facebook/create-react-app).
 
@@ -25,3 +25,6 @@ Les changements sont appliqués immédiatement.
 
 Construit votre App pour la production dans le dossier `build`.
 
+## Instructions
+
+Sur omnivox
